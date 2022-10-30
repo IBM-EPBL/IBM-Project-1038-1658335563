@@ -1,0 +1,9 @@
+ASSIGNMENT 2:
+
+Friday 16th September morning (B5M1E-05)
+Trainer Name: - Shyam 
+Batch no: - B5M1E-05
+1. Create a Flask App
+2. Add the Home page, About Page
+3. Add the Bootstrap
+4. Add the Sign in page and App the Signup Page
